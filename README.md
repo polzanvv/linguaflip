@@ -12,11 +12,11 @@ You can test Lexicala API with up to 50 free calls per day.
 
 ## Installation
 
-1. Clone the repository
-  git clone https://github.com/your-username/linguaflip.git
-  cd linguaflip
+1. Clone the repository:
+git clone https://github.com/your-username/linguaflip.git
+cd linguaflip
 
-2. Install dependencies
+2. Install dependencies:
   npm install
 
 3. Run the app:
